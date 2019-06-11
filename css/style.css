@@ -1,3 +1,22 @@
 body{
-	color: green;
+	/*background-color: #22B573;*/
+	margin: 30px;
+}
+.logo{
+	width: 200px;
+	margin-left: 65px;
+	vertical-align: top;
+	float: right;
+}
+.navigation_bar{
+	vertical-align: top;
+	float: right;
+}
+.inline-block{
+	display: inline-block;
+}
+.navigation_li{
+	margin: 0 20px;
+	font-size: 36px;
+	color: white;
 }
